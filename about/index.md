@@ -1,26 +1,26 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About Me
+excerpt: "A nut-shell of my </life>"
+modified: 2016-05-25T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Cover.jpg
+  credit: Himanshu Chowdhary
+  creditlink: http://himanshu.io
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hi, I am a third year Undergraduate Student of **Department of Mathematics, Indian Institute of Technology, Kharagpur**, enrolled in its Integrated M.Sc Course in **Mathematics and Computing**.
 
-## So Simple Theme is all about:
+I am a developer. I love to solve problems. I spend most of my time hooked up to my ultrabook, watching stuff on youtube, browsing the web, and reading reviews.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+## My day is all about:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+* Learning.
+* Living in the moment.
+* Observing small things.
+* Making new friends and gaining new experience with them.
+
+
+<a markdown="0" href="{{ site.url }}/resume" class="btn">Resume</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
