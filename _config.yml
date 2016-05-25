@@ -2,10 +2,10 @@
 
 title: Hiten Chowdhary
 locale: en_US
-description: Mathematician | Coder | Pianist
+description: Mathematician | Developer | Pianist
 logo: Profile.jpg
 search: true
-url: http://localhost:4000
+url: http://hiten.io/blog/
 
 # Jekyll configuration
 
@@ -49,7 +49,7 @@ titlecase: true
 # Site owner
 owner:
   name: Hiten Chowdhary
-  avatar: bio.jpg
+  avatar: bio-2.jpg
   email: hiten.iitkgp@protonmail.ch
   disqus-shortname:
   twitter: aniarya82
