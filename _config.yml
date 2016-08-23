@@ -5,8 +5,8 @@ locale: en_US
 description: Mathematician | Developer | Pianist
 logo: Profile.jpg
 search: true
-# url: http://hiten.io/blog
-url: http://localhost:4000
+url: http://hiten.io/blog
+# url: http://localhost:4000
 
 # Jekyll configuration
 
