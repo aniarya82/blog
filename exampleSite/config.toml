@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Hiten Chowdhary"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -13,10 +13,10 @@ enableEmoji = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+title = "I'm Hiten Chowdhary"
+author = "Hiten Chowdhary"
+description = "Call me Hiten"
+profilePicture = "images/aniarya.jpg"
 keywords = ""
 favicon = "favicons/"
 customCss = []
@@ -30,22 +30,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://linkedin.com/in/hitenchowdhary/"
 
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/aniarya82/"
 
 [[params.socialIcons]]
 icon = "fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/hiten8080"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:hiten.iitkgp@gmail.com"
 
 ## Menu items
 
