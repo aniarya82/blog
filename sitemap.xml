@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hiten.io/</loc>
+    <lastmod>2020-05-26T22:37:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hiten.io/posts/my-first-post/</loc>
+    <lastmod>2020-05-26T22:37:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hiten.io/posts/</loc>
+    <lastmod>2020-05-26T22:37:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hiten.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hiten.io/tags/</loc>
+  </url>
+  
+</urlset>
