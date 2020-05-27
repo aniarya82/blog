@@ -6,9 +6,109 @@
     <description>Recent content in Tags on Hiten Chowdhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2020 11:10:56 +0530</lastBuildDate>
     
 	<atom:link href="/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Afra</title>
+      <link>/blog/tags/afra/</link>
+      <pubDate>Wed, 27 May 2020 11:10:56 +0530</pubDate>
+      
+      <guid>/blog/tags/afra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>annotations</title>
+      <link>/blog/tags/annotations/</link>
+      <pubDate>Wed, 27 May 2020 11:10:56 +0530</pubDate>
+      
+      <guid>/blog/tags/annotations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genome</title>
+      <link>/blog/tags/genome/</link>
+      <pubDate>Wed, 27 May 2020 11:10:56 +0530</pubDate>
+      
+      <guid>/blog/tags/genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gsoc2017</title>
+      <link>/blog/tags/gsoc2017/</link>
+      <pubDate>Wed, 27 May 2020 11:10:56 +0530</pubDate>
+      
+      <guid>/blog/tags/gsoc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>/blog/tags/open-source/</link>
+      <pubDate>Wed, 27 May 2020 11:10:56 +0530</pubDate>
+      
+      <guid>/blog/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLAST</title>
+      <link>/blog/tags/blast/</link>
+      <pubDate>Wed, 27 May 2020 11:10:53 +0530</pubDate>
+      
+      <guid>/blog/tags/blast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gsoc2016</title>
+      <link>/blog/tags/gsoc2016/</link>
+      <pubDate>Wed, 27 May 2020 11:10:53 +0530</pubDate>
+      
+      <guid>/blog/tags/gsoc2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequenceserver</title>
+      <link>/blog/tags/sequenceserver/</link>
+      <pubDate>Wed, 27 May 2020 11:10:53 +0530</pubDate>
+      
+      <guid>/blog/tags/sequenceserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>/blog/tags/blog/</link>
+      <pubDate>Wed, 27 May 2020 10:58:13 +0530</pubDate>
+      
+      <guid>/blog/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>/blog/tags/first/</link>
+      <pubDate>Wed, 27 May 2020 10:58:13 +0530</pubDate>
+      
+      <guid>/blog/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>/blog/tags/hugo/</link>
+      <pubDate>Wed, 27 May 2020 10:58:13 +0530</pubDate>
+      
+      <guid>/blog/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

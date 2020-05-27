@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light"><head>
+    <title> Hiten Chowdhary | Gsoc 2017 </title>
+    <meta charset="utf-8"><meta name="generator" content="Hugo 0.70.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="Full Stack Engineer | Mathematician | Gamer">
+    
+    <link rel="stylesheet" href="/blog/css/style.min.85e90e2074443bfd6fa2fbf12d2ebbb4863afa1a4e71453e93731417240b7359.css" integrity="sha256-hekOIHREO/1vovvxLS67tIY6&#43;hpOcUU&#43;k3MUFyQLc1k=" type="text/css">
+    
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <base href="/blog">
+    
+    <link rel="shortcut icon" href="/blogfavicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/blogapple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/blogfavicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/blogfavicon-16x16.png">
+    <link rel="canonical" href="/blog/posts/gsoc-2017/">
+    
+    
+    <script type="text/javascript" src="/blog/js/anatole-header.min.c275265a259296f3dd50e8236a77fcbcadb1dbb9597d3045c675dcc2c7c58a93.js" integrity="sha256-wnUmWiWSlvPdUOgjanf8vK2x27lZfTBFxnXcwsfFipM="></script>
+</head><body><div class="sidebar animated fadeInDown">
+    <div class="logo-title">
+      <div class="title">
+        <img src="/blog/images/aniarya.jpg" alt="profile picture">
+        <h3 title=""><a href="/">I&#39;m Hiten Chowdhary</a></h3>
+        <div class="description">
+          <p>Full Stack Engineer | Mathematician | Gamer</p>
+        </div>
+      </div>
+    </div>
+    <ul class="social-links">
+        
+        <li>
+        <a href="https://linkedin.com/in/hitenchowdhary/" rel="me" aria-label="Linkedin">
+          <i class="fa fa-2x fa-linkedin" aria-hidden="true"></i>
+        </a>          
+        </li>
+
+        
+        <li>
+        <a href="https://github.com/aniarya82/" rel="me" aria-label="GitHub">
+          <i class="fa fa-2x fa-github" aria-hidden="true"></i>
+        </a>          
+        </li>
+
+        
+        <li>
+        <a href="https://www.instagram.com/hiten8080" rel="me" aria-label="instagram">
+          <i class="fa fa-2x fa-instagram" aria-hidden="true"></i>
+        </a>          
+        </li>
+
+        
+        <li>
+        <a href="mailto:hiten.iitkgp@gmail.com" rel="me" aria-label="e-mail">
+          <i class="fa fa-2x fa-envelope" aria-hidden="true"></i>
+        </a>          
+        </li>
+
+        
+    </ul>
+    <div class="footer">
+        <div class="by_farbox">&copy; Hiten Chowdhary 2020 </div>
+      </div>
+    </div>
+</div><div class="main">
+            <div class="page-top animated fadeInDown">
+    <ul class="nav">
+        
+        
+        
+        <li><a  href="/blog/" title="">Home</a></li>
+        
+        
+        <li><a  href="/blog/posts/" title="">Posts</a></li>
+        
+    </ul>
+    <div class="themeswitcher">
+        <a class="theme-switch" title="Switch Theme">
+            <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+        </a>
+    </div>
+</div>
+
+            <div class="autopagerize_page_element">
+                <div class="content">
+<div class="post animated fadeInDown">
+    <div class="post-content">
+
+      <div class="post-title">
+        <h3>Gsoc 2017
+        </h3>
+        
+        </div>
+
+    <p>This is a summary of the work done during this summer as part of Google Summer of Code 2017 under the organisation Open Genome Informatics under the guidance of my mentors Yannick Wurm and Anurag Priyam.</p>
+<h2 id="about-the-project">About the project</h2>
+<p><em>Problem Statement</em>: Performance and user centric improvements to Afra’s annotation editor.</p>
+<p><em>Brief explanation</em>: Gene prediction models are visually inspected and manually corrected for any mistakes. Curation of gene models is carried out on Afra, a crowdsourcing platform. Afra has two models - an annotation editor and a task processor. The annotation editor is build using JBrowse and WebApollo. This project focuses on migrating Afra to the latest JBrowse and getting a unit test suite ready to optimize the annotation editor and ease the learning curve of manual curation.</p>
+<h2 id="project-summary">Project Summary</h2>
+<p>Before the project started, I was fairly acquainted with javascript and ruby. Initially, I got familiar with JBrowse&rsquo;s codebase and understood the upgrades along with changes made in different versions. We planned to get the test suite ready before the migration of Afra takes place. With the test suite in place, the migration would take place without any hassle. One can run tests to ensure annotation editing functionality is working properly.</p>
+<p>For migration of Afra, we took a look at JBrowse and Afra’s codebase. We examined the files added to Afra’s codebase, which exhibited the annotation editor functionality along with additional features of Afra. These differences in codebase were carried over to JBrowse as a plugin. This provided the annotation editor functionality which could be easily plugged into JBrowse or any other Genome browser.</p>
+<h2 id="test-suite">Test Suite</h2>
+<p>Annotation editor uses Jasmine for unit tests. Jasmine was easy to setup and can be executed using a simple web server. I examined the already implemented tests for different functionalities of Afra. This provided me an insight into the processing of tests implemented in Afra. Further, I added some tests for the annotation editor functionality. These tests were:</p>
+<ul>
+<li>Flip strand : Checks whether the annotation editor is correctly changing the genome’s strand.</li>
+<li>Set longest ORF: Checks whether annotation editor adequately implements the longest open reading frame for a given transcript.</li>
+<li>Mark non canonical splice sites: Checks whether the annotation editor is duly marking the non canonical splice sites for the transcript.</li>
+<li>Mark non canonical translation start site: Checks whether the annotation editor is duly marking the non canonical start translation sites for the transcript.</li>
+<li>Mark non canonical translation stop site: Checks whether the annotation editor is duly marking the non canonical splice sites for the transcript.</li>
+<li>Filter features: Checks whether the annotation editor is properly filtering a given type of transcript (say exons) from a given set of transcripts.</li>
+<li>Copy feature: Checks whether annotation editor is making an exact copy of features passed to it.</li>
+<li>Merge exon: Checks whether annotation editor suitably merges two given exons and returns a new transcript.</li>
+<li>Create transcript: Checks whether annotation editor creates a new transcript using Simple feature, for the provided features.</li>
+<li>Resize exon: Checks whether annotation editor adequetely resizes the exons.</li>
+<li>Get CDNA coordinates: Checks whether the annotation editor provides correct cdna coordinates for a given transcript.</li>
+<li>Delete exon: Checks whether annotation editor properly deletes a exon from a given transcript.</li>
+</ul>
+<p>Here is the <a href="https://goo.gl/sCujXe">link</a> to my commits for the test suite.</p>
+<h2 id="migrating-afra-to-latest-jbrowse">Migrating Afra to latest JBrowse</h2>
+<p>We started building a plugin for the JBrowse to carry over the annotation editor functionality to JBrowse. This would provide Afra’s annotation edition functionality to use the latest JBrowse features, making the migration process smoother. The plugin development took place in the following steps :-</p>
+<ul>
+<li>Edit track implementations : First task was adding a new track to JBrowse’s browser for plugin&rsquo;s initialization.</li>
+<li>Adding drag and drop feature : Next task was including proper jquery scripts and modifying the properties of existing tracks, so that they can be dragged along the y axis and dropped to edit track for annotating them.</li>
+<li>Edit track drop capabilities : Subsequently, we initialized the edit track and made it capable to accept the incoming features and make them available for annotation editor for further modifications.</li>
+<li>Accessing annotation editor’s functionality : Now that we could successfully dragged and dropped a feature in edit track, it was time to use the annotation editor functionality to make required changes to the track. This list of functionality is available upon right clicking the feature in edit track.</li>
+<li>Getting right click menu items working: By this stage we had got a front end in place to access the annotation editors functions. Now it was time to get those functionality such as get sequence, send to Gene Validator, resize exon, etc ready.</li>
+</ul>
+<p>Now we had a basic plugin in place that had implemented the basic annotation editing functionality. (<a href="https://goo.gl/wFVf5o">commit</a>)</p>
+<p>Now additional features of Afra had to be carried over. These feature are :-</p>
+<ul>
+<li>We implemented triple click on track to zoom to base pair level directly. (<a href="https://goo.gl/J4LTuJ">commit</a>)</li>
+<li>Following this, we replaced the JBrowse’s reference sequence track with Afra’s. Now, when the feature in edit track is selected, the corresponding track in reference sequence gets highlighted. (<a href="https://goo.gl/LQBMJF">commit</a>)</li>
+<li>We added a feature to view the residues (actual genomic sequence ‘atgc’) of the feature in edit track when it is selected. (<a href="https://goo.gl/J4LTuJ">commit</a>)</li>
+<li>We implemented an additional feature to validate the feature dropped in the edit track. We checked for non canonical translation start and stop sites and marked them with orange exclamation marks. This will help the user easily look for non canonical splice sites without looking into the sequence of the feature. (<a href="https://goo.gl/MrZFYC">commit</a>)</li>
+</ul>
+<p>Finally, we had successfully implemented the annotation editor of Afra as a plugin of JBrowse, along with extra features of Afra too. Further, to test whether all the annotation editing functionalities are working properly we implemented the test suite for the plugin.(<a href="https://goo.gl/wFVf5o">commit</a>)</p>
+
+    </div>
+    <div class="post-footer">
+      <div class="info">
+        
+        
+    <span class="separator"><a class="tag" href="/blog/tags/gsoc2017/">gsoc2017</a><a class="tag" href="/blog/tags/open-source/">open source</a><a class="tag" href="/blog/tags/afra/">Afra</a><a class="tag" href="/blog/tags/genome/">genome</a><a class="tag" href="/blog/tags/annotations/">annotations</a></span>
+
+      </div>
+    </div>
+
+    
+</div>
+
+
+                </div>
+            </div>
+        </div>
+</body>
+
+
+
+<script type="text/javascript" src="/blog/js/jquery.min.86b1e8f819ee2d9099a783e50b49dff24282545fc40773861f9126b921532e4c.js" integrity="sha256-hrHo&#43;BnuLZCZp4PlC0nf8kKCVF/EB3OGH5EmuSFTLkw="></script>
+
+
+
+
+<script type="text/javascript" src="/blog/js/bundle.min.0f9c74cb78f13d1f15f33daff4037c70354f98acfbb97a6f61708966675c3cae.js" integrity="sha256-D5x0y3jxPR8V8z2v9AN8cDVPmKz7uXpvYXCJZmdcPK4="></script>
+
+<script type="text/javascript" src="/blog/js/medium-zoom.min.7487768bffcc6aee437cf6a4ac7da5d2ffc61dc63b36316a14122ceb26b34c70.js" integrity="sha256-dId2i//Mau5DfPakrH2l0v/GHcY7NjFqFBIs6yazTHA="></script>
+
+<link rel="stylesheet" href="/blog/css/medium-zoom.min.a1468f7a1cce6fe96c4b5483cb4645b85728a32b3abbd598c375a92df16230ef.css" integrity="sha256-oUaPehzOb&#43;lsS1SDy0ZFuFcooys6u9WYw3WpLfFiMO8=" type="text/css">
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-105708361-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+</html></body>
+
+</html>

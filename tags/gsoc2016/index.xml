@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gsoc2016 on Hiten Chowdhary</title>
+    <link>/blog/tags/gsoc2016/</link>
+    <description>Recent content in gsoc2016 on Hiten Chowdhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2020 11:10:53 +0530</lastBuildDate>
+    
+	<atom:link href="/blog/tags/gsoc2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gsoc 2016</title>
+      <link>/blog/posts/gsoc-2016/</link>
+      <pubDate>Wed, 27 May 2020 11:10:53 +0530</pubDate>
+      
+      <guid>/blog/posts/gsoc-2016/</guid>
+      <description>This post is going to be about my GSoC 2016 project under Open Genome Informatics organisation along with Anurag Priyam and Yannick Wurm as my mentors.</description>
+    </item>
+    
+  </channel>
+</rss>
