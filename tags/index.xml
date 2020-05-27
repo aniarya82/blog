@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hiten Chowdhary</title>
-    <link>/blog/tags/</link>
+    <link>blog/tags/</link>
     <description>Recent content in Tags on Hiten Chowdhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 10:58:13 +0530</lastBuildDate>
     
-	<atom:link href="/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>/blog/tags/blog/</link>
+      <link>blog/tags/blog/</link>
       <pubDate>Wed, 27 May 2020 10:58:13 +0530</pubDate>
       
-      <guid>/blog/tags/blog/</guid>
+      <guid>blog/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>/blog/tags/first/</link>
+      <link>blog/tags/first/</link>
       <pubDate>Wed, 27 May 2020 10:58:13 +0530</pubDate>
       
-      <guid>/blog/tags/first/</guid>
+      <guid>blog/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>/blog/tags/hugo/</link>
+      <link>blog/tags/hugo/</link>
       <pubDate>Wed, 27 May 2020 10:58:13 +0530</pubDate>
       
-      <guid>/blog/tags/hugo/</guid>
+      <guid>blog/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>book</title>
-      <link>/blog/tags/book/</link>
+      <link>blog/tags/book/</link>
       <pubDate>Sun, 24 Jun 2018 20:39:29 +0530</pubDate>
       
-      <guid>/blog/tags/book/</guid>
+      <guid>blog/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel Pink</title>
-      <link>/blog/tags/daniel-pink/</link>
+      <link>blog/tags/daniel-pink/</link>
       <pubDate>Sun, 24 Jun 2018 20:39:29 +0530</pubDate>
       
-      <guid>/blog/tags/daniel-pink/</guid>
+      <guid>blog/tags/daniel-pink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notes</title>
-      <link>/blog/tags/notes/</link>
+      <link>blog/tags/notes/</link>
       <pubDate>Sun, 24 Jun 2018 20:39:29 +0530</pubDate>
       
-      <guid>/blog/tags/notes/</guid>
+      <guid>blog/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Afra</title>
-      <link>/blog/tags/afra/</link>
+      <link>blog/tags/afra/</link>
       <pubDate>Tue, 29 Aug 2017 11:10:56 +0530</pubDate>
       
-      <guid>/blog/tags/afra/</guid>
+      <guid>blog/tags/afra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>annotations</title>
-      <link>/blog/tags/annotations/</link>
+      <link>blog/tags/annotations/</link>
       <pubDate>Tue, 29 Aug 2017 11:10:56 +0530</pubDate>
       
-      <guid>/blog/tags/annotations/</guid>
+      <guid>blog/tags/annotations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>genome</title>
-      <link>/blog/tags/genome/</link>
+      <link>blog/tags/genome/</link>
       <pubDate>Tue, 29 Aug 2017 11:10:56 +0530</pubDate>
       
-      <guid>/blog/tags/genome/</guid>
+      <guid>blog/tags/genome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gsoc2017</title>
-      <link>/blog/tags/gsoc2017/</link>
+      <link>blog/tags/gsoc2017/</link>
       <pubDate>Tue, 29 Aug 2017 11:10:56 +0530</pubDate>
       
-      <guid>/blog/tags/gsoc2017/</guid>
+      <guid>blog/tags/gsoc2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open source</title>
-      <link>/blog/tags/open-source/</link>
+      <link>blog/tags/open-source/</link>
       <pubDate>Tue, 29 Aug 2017 11:10:56 +0530</pubDate>
       
-      <guid>/blog/tags/open-source/</guid>
+      <guid>blog/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BLAST</title>
-      <link>/blog/tags/blast/</link>
+      <link>blog/tags/blast/</link>
       <pubDate>Tue, 23 Aug 2016 11:10:53 +0530</pubDate>
       
-      <guid>/blog/tags/blast/</guid>
+      <guid>blog/tags/blast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gsoc2016</title>
-      <link>/blog/tags/gsoc2016/</link>
+      <link>blog/tags/gsoc2016/</link>
       <pubDate>Tue, 23 Aug 2016 11:10:53 +0530</pubDate>
       
-      <guid>/blog/tags/gsoc2016/</guid>
+      <guid>blog/tags/gsoc2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sequenceserver</title>
-      <link>/blog/tags/sequenceserver/</link>
+      <link>blog/tags/sequenceserver/</link>
       <pubDate>Tue, 23 Aug 2016 11:10:53 +0530</pubDate>
       
-      <guid>/blog/tags/sequenceserver/</guid>
+      <guid>blog/tags/sequenceserver/</guid>
       <description></description>
     </item>
     
