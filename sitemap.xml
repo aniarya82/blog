@@ -3,71 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/tags/afra/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/annotations/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/genome/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/posts/gsoc-2017/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/gsoc2017/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/open-source/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/posts/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/</loc>
-    <lastmod>2020-05-27T11:10:56+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/blast/</loc>
-    <lastmod>2020-05-27T11:10:53+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/posts/gsoc-2016/</loc>
-    <lastmod>2020-05-27T11:10:53+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/gsoc2016/</loc>
-    <lastmod>2020-05-27T11:10:53+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/sequenceserver/</loc>
-    <lastmod>2020-05-27T11:10:53+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/posts/about-blog-post/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
@@ -83,13 +18,78 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-05-27T10:58:13+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/tags/hugo/</loc>
+    <lastmod>2020-05-27T10:58:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/posts/</loc>
+    <lastmod>2020-05-27T10:58:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
     <loc>/blog/posts/my-first-post/</loc>
     <lastmod>2020-05-26T22:37:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/afra/</loc>
+    <lastmod>2017-08-29T11:10:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/annotations/</loc>
+    <lastmod>2017-08-29T11:10:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/genome/</loc>
+    <lastmod>2017-08-29T11:10:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/posts/gsoc-2017/</loc>
+    <lastmod>2017-08-29T11:10:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/gsoc2017/</loc>
+    <lastmod>2017-08-29T11:10:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/open-source/</loc>
+    <lastmod>2017-08-29T11:10:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/blast/</loc>
+    <lastmod>2016-08-23T11:10:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/posts/gsoc-2016/</loc>
+    <lastmod>2016-08-23T11:10:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/gsoc2016/</loc>
+    <lastmod>2016-08-23T11:10:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/sequenceserver/</loc>
+    <lastmod>2016-08-23T11:10:53+05:30</lastmod>
   </url>
   
   <url>
