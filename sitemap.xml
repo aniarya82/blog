@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hiten.io/</loc>
+    <loc>https://hiten.io/blog/</loc>
     <lastmod>2020-05-26T22:37:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://hiten.io/posts/my-first-post/</loc>
+    <loc>https://hiten.io/blog/posts/my-first-post/</loc>
     <lastmod>2020-05-26T22:37:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://hiten.io/posts/</loc>
+    <loc>https://hiten.io/blog/posts/</loc>
     <lastmod>2020-05-26T22:37:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://hiten.io/categories/</loc>
+    <loc>https://hiten.io/blog/categories/</loc>
   </url>
   
   <url>
-    <loc>http://hiten.io/tags/</loc>
+    <loc>https://hiten.io/blog/tags/</loc>
   </url>
   
 </urlset>

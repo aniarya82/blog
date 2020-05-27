@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hiten Chowdhary</title>
-    <link>http://hiten.io/posts/</link>
+    <link>https://hiten.io/blog/posts/</link>
     <description>Recent content in Posts on Hiten Chowdhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 May 2020 22:37:59 +0530</lastBuildDate>
     
-	<atom:link href="http://hiten.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hiten.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://hiten.io/posts/my-first-post/</link>
+      <link>https://hiten.io/blog/posts/my-first-post/</link>
       <pubDate>Tue, 26 May 2020 22:37:59 +0530</pubDate>
       
-      <guid>http://hiten.io/posts/my-first-post/</guid>
+      <guid>https://hiten.io/blog/posts/my-first-post/</guid>
       <description>Introduction of drafts Hello here is something for this draft content, so as it doesn&amp;rsquo;s looks empty</description>
     </item>
     
