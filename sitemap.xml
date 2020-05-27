@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/about-blog-post/</loc>
+    <loc>blog/posts/about-blog-post/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/blog/</loc>
+    <loc>blog/tags/blog/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/first/</loc>
+    <loc>blog/tags/first/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>blog/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>blog/tags/hugo/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>blog/posts/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>blog/tags/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>blog/posts/my-first-post/</loc>
     <lastmod>2020-05-26T22:37:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/book/</loc>
+    <loc>blog/tags/book/</loc>
     <lastmod>2018-06-24T20:39:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/daniel-pink/</loc>
+    <loc>blog/tags/daniel-pink/</loc>
     <lastmod>2018-06-24T20:39:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/notes/</loc>
+    <loc>blog/tags/notes/</loc>
     <lastmod>2018-06-24T20:39:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/when-the-secret-of-perfect-timing/</loc>
+    <loc>blog/posts/when-the-secret-of-perfect-timing/</loc>
     <lastmod>2018-06-24T20:39:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/afra/</loc>
+    <loc>blog/tags/afra/</loc>
     <lastmod>2017-08-29T11:10:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/annotations/</loc>
+    <loc>blog/tags/annotations/</loc>
     <lastmod>2017-08-29T11:10:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/genome/</loc>
+    <loc>blog/tags/genome/</loc>
     <lastmod>2017-08-29T11:10:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/gsoc-2017/</loc>
+    <loc>blog/posts/gsoc-2017/</loc>
     <lastmod>2017-08-29T11:10:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/gsoc2017/</loc>
+    <loc>blog/tags/gsoc2017/</loc>
     <lastmod>2017-08-29T11:10:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/open-source/</loc>
+    <loc>blog/tags/open-source/</loc>
     <lastmod>2017-08-29T11:10:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/blast/</loc>
+    <loc>blog/tags/blast/</loc>
     <lastmod>2016-08-23T11:10:53+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/gsoc-2016/</loc>
+    <loc>blog/posts/gsoc-2016/</loc>
     <lastmod>2016-08-23T11:10:53+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/gsoc2016/</loc>
+    <loc>blog/tags/gsoc2016/</loc>
     <lastmod>2016-08-23T11:10:53+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sequenceserver/</loc>
+    <loc>blog/tags/sequenceserver/</loc>
     <lastmod>2016-08-23T11:10:53+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>blog/categories/</loc>
   </url>
   
 </urlset>

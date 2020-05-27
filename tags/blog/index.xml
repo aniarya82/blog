@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Hiten Chowdhary</title>
-    <link>/tags/blog/</link>
+    <link>blog/tags/blog/</link>
     <description>Recent content in blog on Hiten Chowdhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 10:58:13 +0530</lastBuildDate>
     
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Blog Post</title>
-      <link>/posts/about-blog-post/</link>
+      <link>blog/posts/about-blog-post/</link>
       <pubDate>Wed, 27 May 2020 10:58:13 +0530</pubDate>
       
-      <guid>/posts/about-blog-post/</guid>
+      <guid>blog/posts/about-blog-post/</guid>
       <description>About Hugo So I was browsing open source projects when I came across CNCF&amp;rsquo;s project promethous.</description>
     </item>
     

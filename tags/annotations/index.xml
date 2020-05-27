@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>annotations on Hiten Chowdhary</title>
-    <link>/tags/annotations/</link>
+    <link>blog/tags/annotations/</link>
     <description>Recent content in annotations on Hiten Chowdhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Aug 2017 11:10:56 +0530</lastBuildDate>
     
-	<atom:link href="/tags/annotations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog/tags/annotations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gsoc 2017</title>
-      <link>/posts/gsoc-2017/</link>
+      <link>blog/posts/gsoc-2017/</link>
       <pubDate>Tue, 29 Aug 2017 11:10:56 +0530</pubDate>
       
-      <guid>/posts/gsoc-2017/</guid>
+      <guid>blog/posts/gsoc-2017/</guid>
       <description>This is a summary of the work done during this summer as part of Google Summer of Code 2017 under the organisation Open Genome Informatics under the guidance of my mentors Yannick Wurm and Anurag Priyam.</description>
     </item>
     
