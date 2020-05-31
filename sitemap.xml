@@ -38,11 +38,6 @@
   </url>
   
   <url>
-    <loc>/blog/posts/my-first-post/</loc>
-    <lastmod>2020-05-26T22:37:59+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/tags/book/</loc>
     <lastmod>2018-06-24T20:39:29+05:30</lastmod>
   </url>
@@ -110,6 +105,46 @@
   <url>
     <loc>/blog/tags/sequenceserver/</loc>
     <lastmod>2016-08-23T11:10:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ambient/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/posts/best-music-to-work-with/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/chill-out/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/classical/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/jazz/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/music/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/ost/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/work/</loc>
+    <lastmod>2016-04-30T10:09:00+05:30</lastmod>
   </url>
   
   <url>

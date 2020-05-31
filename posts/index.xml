@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>/blog/posts/my-first-post/</link>
-      <pubDate>Tue, 26 May 2020 22:37:59 +0530</pubDate>
-      
-      <guid>/blog/posts/my-first-post/</guid>
-      <description>Introduction of drafts Hello here is something for this draft content, so as it doesn&amp;rsquo;s looks empty</description>
-    </item>
-    
-    <item>
       <title>When: The Scientific Secret of Perfect Timing</title>
       <link>/blog/posts/when-the-secret-of-perfect-timing/</link>
       <pubDate>Sun, 24 Jun 2018 20:39:29 +0530</pubDate>
@@ -54,6 +45,15 @@
       
       <guid>/blog/posts/gsoc-2016/</guid>
       <description>This post is going to be about my GSoC 2016 project under Open Genome Informatics organisation along with Anurag Priyam and Yannick Wurm as my mentors.</description>
+    </item>
+    
+    <item>
+      <title>Best Genre to Work With</title>
+      <link>/blog/posts/best-music-to-work-with/</link>
+      <pubDate>Sat, 30 Apr 2016 10:09:00 +0530</pubDate>
+      
+      <guid>/blog/posts/best-music-to-work-with/</guid>
+      <description>Many times people want to work with some music on, but music sometimes can be distracting, atleast for me, different genres make my mind go different places, so I started to look for some music best suited for concentration and the I found this blog post in Quartz.</description>
     </item>
     
   </channel>
