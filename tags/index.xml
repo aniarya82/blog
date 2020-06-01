@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Hiten Chowdhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2020 10:58:13 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 15:01:06 +0530</lastBuildDate>
     
 	<atom:link href="/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>go</title>
+      <link>/blog/tags/go/</link>
+      <pubDate>Mon, 01 Jun 2020 15:01:06 +0530</pubDate>
+      
+      <guid>/blog/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>/blog/tags/tutorial/</link>
+      <pubDate>Mon, 01 Jun 2020 15:01:06 +0530</pubDate>
+      
+      <guid>/blog/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>/blog/tags/web/</link>
+      <pubDate>Mon, 01 Jun 2020 15:01:06 +0530</pubDate>
+      
+      <guid>/blog/tags/web/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>blog</title>

@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/tags/go/</loc>
+    <lastmod>2020-06-01T15:01:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/posts/go-web-camp/</loc>
+    <lastmod>2020-06-01T15:01:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-06-01T15:01:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/posts/</loc>
+    <lastmod>2020-06-01T15:01:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/</loc>
+    <lastmod>2020-06-01T15:01:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/tutorial/</loc>
+    <lastmod>2020-06-01T15:01:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/web/</loc>
+    <lastmod>2020-06-01T15:01:06+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/posts/about-blog-post/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
@@ -18,22 +53,7 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-05-27T10:58:13+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/tags/hugo/</loc>
-    <lastmod>2020-05-27T10:58:13+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/posts/</loc>
-    <lastmod>2020-05-27T10:58:13+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/</loc>
     <lastmod>2020-05-27T10:58:13+05:30</lastmod>
   </url>
   
