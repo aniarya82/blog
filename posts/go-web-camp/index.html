@@ -93,7 +93,13 @@
         </div>
 
     <p>So I heard there is a new language in town. Thought I should give it a try.
-Here the (link)[https://github.com/campoy/go-web-workshop/] from where I started my journey</p>
+Here the <a href="https://github.com/campoy/go-web-workshop/">link</a> from where I started my journey</p>
+<h2 id="pre-requisite">Pre-requisite</h2>
+<ul>
+<li>Go lang basics</li>
+<li>Google cloud account</li>
+<li>Google cloud sdk installed via <a href="https://cloud.google.com/sdk/docs/downloads-interactive">link</a></li>
+</ul>
 <h2 id="hello-world">Hello World</h2>
 <ul>
 <li>Go lang installation</li>
@@ -120,13 +126,42 @@ Here the (link)[https://github.com/campoy/go-web-workshop/] from where I started
 <li>For now I am facing issue <code>OSError: [Errno 2] No such file or directory: '/Users/aniarya/google-cloud-sdk/platform/google_appengine/goroot-1.9/pkg/tool'</code></li>
 </ul>
 <p>EOD : 01-07-2020</p>
+<p>Yesterday&rsquo;s issue wasn&rsquo;t able to solve. I think this maybe because of the outdated version of tutorial I may be using.
+The tutorial was made in 2017 and I am trying it in 2020. Golang has released many updates till now. So I will have to refer to latest document to make changes and make it work. For now I am continue with tutorial for the sake of understanding basics.</p>
+<h2 id="static-html-files">Static HTML files</h2>
+<ul>
+<li>Added html file in static folder.</li>
+<li><code>app.yaml</code> has routes for pointing to static files.</li>
+<li>hosted this on Gcloud, works okay</li>
+<li>Implemented backend in go file but <code>dev_appserver.py .</code> script has an error <code>INFO 2020-06-02 09:23:47,095 admin_server.py:150] Starting admin server at: http://localhost:8000\nERROR 2020-06-02 09:23:50,391 instance.py:284] Cannot connect to the instance on localhost:18087</code></li>
+<li>This is taking place whether backend go file is there or not. But before when go file wasn&rsquo;t added then this issue wasn&rsquo;t there</li>
+</ul>
+<h2 id="json-encoding-and-decoding">JSON Encoding and Decoding</h2>
+<ul>
+<li>Struct defined for decoder and encoder function</li>
+<li>Genric function for router, seperate from main func, helps in unit testing also</li>
+<li>The Google App Engine issue still persists so I hosting the app directly via go files can be hosted</li>
+</ul>
+<h2 id="storing-data-in-datastore">Storing Data in Datastore</h2>
+<ul>
+<li>Go runtime on App Engine provides a suite of packages including Clound Datastore</li>
+<li><code>google.golang.org/appengine/datastore</code> is the package used for the same</li>
+<li>Retrival of datastore via key methods</li>
+</ul>
+<h2 id="retriving-remote-resources-with-urlfetch">Retriving remote resources with urlfetch</h2>
+<ul>
+<li>Application communicate with external apps via POST requests</li>
+<li>App Engine limits <code>net/http</code> usage for scalling purposes</li>
+<li><code>appengine/urlfetch</code> module will be used along with App Engine, as it is compatible with GCP</li>
+<li>Used <a href="https://openweathermap.org">weather</a> to test <code>appengine/urlfetch</code> for application</li>
+</ul>
 
     </div>
     <div class="post-footer">
       <div class="info">
         
         
-    <span class="separator"><a class="tag" href="/blog/tags/go/">go</a><a class="tag" href="/blog/tags/web/">web</a><a class="tag" href="/blog/tags/tutorial/">tutorial</a></span>
+    <span class="separator"><a class="tag" href="/blog/tags/go/">go</a><a class="tag" href="/blog/tags/golang/">golang</a><a class="tag" href="/blog/tags/web/">web</a><a class="tag" href="/blog/tags/tutorial/">tutorial</a></span>
 
       </div>
     </div>
